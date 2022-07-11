@@ -2,6 +2,7 @@ openapi: '3.0.3'
 
 info:
   title: Case Law Public API
+  description: National Archives Caselaw Public API
   version: '0.1.2'
 
 servers:
